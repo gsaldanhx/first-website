@@ -74,3 +74,9 @@ body {
     border-right-color: transparent;
   }
 }
+
+@media(max-width: 800px){
+  .typing-animation{
+    min-width: 100px;
+  }
+}
