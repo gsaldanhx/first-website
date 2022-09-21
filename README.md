@@ -10,5 +10,6 @@ I made my first website using acquired knowledge by some videos on youtube and a
 
 # Contact
 
-guigsaldanha@gmail.com
-[Instagram](instagram.com/396hertz)
+- guigsaldanha@gmail.com
+
+- [Instagram](instagram.com/396hertz)
