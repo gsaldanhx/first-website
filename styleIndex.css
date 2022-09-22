@@ -46,7 +46,7 @@ body {
     typing 4s steps(40) 1s normal both;
 }
 
-.relogio {
+.clock {
   color: white;
   display: flex;
   position: absolute;
